@@ -1,0 +1,9 @@
+# Ignore compiled Java bytecode
+*.class
+
+# Ignore VS Code binaries and build directories
+bin/
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
